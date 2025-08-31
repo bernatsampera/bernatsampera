@@ -13,18 +13,18 @@ Self learning Translation tool
 ### [SamperaLabs Blog](https://samperalabs.com/blog)
 Technical writing on AI development
 - Tutorials and implementation guides
-- Best practices and new techniques
+- Best practices and new techniques around AI Engineering
 
 ---
 
 ## Additional Work
 
-**[Chatbot](https://github.com/bernatsampera/chatbot)** - Conversational AI assistant
+**[Chatbot](https://github.com/bernatsampera/chatbot)** - Demo on how to create a langgraph chatbot with ui and HITL 
 
 **Live Applications:**
 - [BJJ Gym](https://bjjgym.com) - Gym management platform
 - [Pack Den Sack](https://packdensack.com) - Travel planning tools  
-- [Kronologs](https://kronologs.com) - Time tracking app
+- [Kronologs](https://kronologs.com) - Site about historical figures
 
 ## Tech Focus
 
