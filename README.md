@@ -4,8 +4,10 @@
 
 ## Featured Projects
 
-### [TranslatePrompt Blog](https://translateprompt.com/)
-[Github repo](https://github.com/bernatsampera/translateprompt)
+### [TranslatePrompt](https://translateprompt.com/)
+
+Github repo: https://github.com/bernatsampera/translateprompt
+
 Self learning Translation tool 
 
 ### [SamperaLabs Blog](https://samperalabs.com/blog)
