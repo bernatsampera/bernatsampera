@@ -2,6 +2,9 @@
 
 **AI Engineer** building apps with **LangGraph**, **LLMs**, and **AI Agents**
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
 ## Featured Projects
 
 ### [TranslatePrompt](https://translateprompt.com/)
