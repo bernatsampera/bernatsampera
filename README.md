@@ -1,43 +1,50 @@
-# Bernat Sampera
+# 👋 Bernat Sampera  
 
-**AI Engineer** building apps with **LangGraph**, **LLMs**, and **AI Agents**
+**AI Engineer** building with **LangGraph**, **LLMs**, and **AI Agents**  
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
-
-## Featured Projects
-
-### [TranslatePrompt](https://translateprompt.com/)
-
-Github repo: https://github.com/bernatsampera/translateprompt
-
-Self learning Translation tool 
-
-### [SamperaLabs Blog](https://samperalabs.com/blog)
-Technical writing on AI development
-- Tutorials and implementation guides
-- Best practices and new techniques around AI Engineering
+![](https://komarev.com/ghpvc/?username=bernatsampera&color=blue)
 
 ---
 
-## Additional Work
+## 🚀 Featured Projects  
 
-**[Chatbot](https://github.com/bernatsampera/chatbot)** - Demo on how to create a langgraph chatbot with ui and HITL 
+### 🌐 [TranslatePrompt](https://translateprompt.com/)  
+[![GitHub](https://img.shields.io/badge/Repo-black?style=flat&logo=github)](https://github.com/bernatsampera/translateprompt)  
 
-**Live Applications:**
-- [BJJ Gym](https://bjjgym.com) - Gym management platform
-- [Pack Den Sack](https://packdensack.com) - Travel planning tools  
-- [Kronologs](https://kronologs.com) - Site about historical figures
+> 🧠 A **self-learning translation tool** powered by LLMs.  
 
-## Tech Focus
+---
 
-**AI/ML:** LangGraph, LangChain, OpenAI, Hugging Face  
-**Backend:** Python, FastAPI, Node.js  
-**Frontend:** React, TypeScript, Next.js
+### ✍️ [SamperaLabs Blog](https://samperalabs.com/blog)  
+> 📚 Technical writing on AI engineering  
 
-## Connect
+> 📝 Tutorials & implementation guides (AI Agents)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernat-sampera-195152107)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/bsampera97)
+> 👌 Best practices & new techniques around Lanngraph 
 
-Open to collaborating on AI projects and discussing development.
+> 💻 Dev Ops guides with Coolify and Docker
+
+---
+
+## 🔎 More Projects
+> 🤖 [Chatbot](https://github.com/bernatsampera/chatbot) – LangGraph chatbot with UI + HITL
+>   
+> 🥋 [BJJ Gym](https://bjjgym.com) – Gym management platform
+> 
+> 🎒 [Pack Den Sack](https://packdensack.com) – Travel planning tool
+> 
+> 📜 [Kronologs](https://kronologs.com) – Historical figures timelines  
+---
+
+## 🛠 Tech Stack
+**AI/ML:** LangGraph · LangChain 
+**Backend:** Python · FastAPI · Node.js  
+**Frontend:** React · TypeScript · Next.js  · Astro.js  
+
+---
+
+## 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernat-sampera-195152107)  
+[![Twitter](https://img.shields.io/badge/-000000?style=flat&logo=X&logoColor=white)](https://x.com/bsampera97)  
+
+💡 Always open to collaborating on **AI projects** and sharing ideas.  
