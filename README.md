@@ -104,6 +104,4 @@
   
 ### 💡 **Open to collaborating on AI projects and sharing ideas**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&fontColor=ffffff" width="100%"/>
-
 </div>
